@@ -4,3 +4,5 @@ Os dados coletados é através do consumo de uma API sendo, possível realizar o
 armazenando os dados coletados no MongoDB.
 
 *Para testar a versão Mobile é necessário o Expo*.
+
+* Projeto realizado em cursos da Rockeseat *
